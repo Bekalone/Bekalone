@@ -4,21 +4,11 @@ Hi 👋 My name is Bektur
 Android developer
 -----------------
 
-*   🌍  I'm based in Bishkek
-*   🖥️  See my portfolio at [My NewsApp](http://https://github.com/Bekalone/NewsApp.git)
-*   ✉️  You can contact me at [bek2rkanatbekov@gmail.com](mailto:bek2rkanatbekov@gmail.com)
-*   🚀  I'm currently working on [BtechApp](http://https://github.com/Bekalone/BTech.git)### Skills 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-</p>
-                    
+* 🌍  I'm based in Bishkek
+* 🖥️  See my portfolio at [My NewsApp](http://https://github.com/Bekalone/NewsApp.git)
+* ✉️  You can contact me at [bek2rkanatbekov@gmail.com](mailto:bek2rkanatbekov@gmail.com)
+* 🚀  I'm currently working on [BtechApp](http://https://github.com/Bekalone/BTech.git)
+
 ### Skills
 
 <p align="left">

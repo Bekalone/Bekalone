@@ -5,7 +5,6 @@ Android developer
 -----------------
 
 * 🌍  I'm based in Bishkek
-* 🖥️  See my portfolio at [My NewsApp](http://https://github.com/Bekalone/NewsApp.git)
 * ✉️  You can contact me at [bek2rkanatbekov@gmail.com](mailto:bek2rkanatbekov@gmail.com)
 * 🚀  I'm currently working on [BtechApp](http://https://github.com/Bekalone/BTech.git)
 

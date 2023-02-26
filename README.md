@@ -6,7 +6,7 @@ Android developer
 
 * 🌍  I'm based in Bishkek
 * ✉️  You can contact me at [bek2rkanatbekov@gmail.com](mailto:bek2rkanatbekov@gmail.com)
-* 🚀  I'm currently working on [RickAndMorty](http:https://github.com/Bekalone/RickAndMorty.git))
+* 🚀  I'm currently working on [RickAndMorty](http:https://github.com/Bekalone/RickAndMorty.git)
 
 ### Skills
 
